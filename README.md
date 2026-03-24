@@ -1,6 +1,6 @@
 # Anime Explore MCP
 
-Simple MCP server for searching anime information using the [Jikan API](https://github.com/jikan-me/jikan) (unofficial MyAnimeList API).
+Simple MCP server for searching anime information using the [Jikan API](https://jikan.rizzzi.dev) (unofficial MyAnimeList API).
 
 ## Features
 

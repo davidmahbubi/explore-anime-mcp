@@ -1,6 +1,7 @@
 import Jikan, { Anime } from "jikan4.js"
 
 export interface AnimeResult {
+  malId: number | null,
   title: string | null,
   score: number | null,
   rank: number | null,
@@ -10,6 +11,7 @@ export interface AnimeResult {
   synopsis: string | null,
   background: string | null,
   approved: boolean | null,
+  url: string | null,
 }
 
 export const fetchAnime = async ({ query }: { query: string }): Promise<AnimeResult[]> => {
@@ -18,14 +20,16 @@ export const fetchAnime = async ({ query }: { query: string }): Promise<AnimeRes
   const res: Anime[] = await client.anime.search(query)
 
   return res.map((anime) => ({
-    title: anime.title.english,
-    score: anime.score,
-    rank: anime.rank,
-    popularity: anime.popularity,
-    members: anime.members,
-    favorites: anime.favorites,
-    synopsis: anime.synopsis,
-    background: anime.background,
-    approved: anime.approved,
+    malId: anime.id ?? null,
+    title: anime.title.english ?? anime.title.default ?? null,
+    score: anime.score ?? null,
+    rank: anime.rank ?? null,
+    popularity: anime.popularity ?? null,
+    members: anime.members ?? null,
+    favorites: anime.favorites ?? null,
+    synopsis: anime.synopsis ?? null,
+    background: anime.background ?? null,
+    approved: anime.approved ?? null,
+    url: anime.url?.toString() ?? null,
   }))
 }
