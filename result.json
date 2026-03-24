@@ -1,0 +1,3268 @@
+[
+  {
+    "id": 9253,
+    "url": "https://myanimelist.net/anime/9253/Steins_Gate",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1935/127974t.jpg",
+        "default": "https://myanimelist.net/images/anime/1935/127974.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1935/127974l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1935/127974t.webp",
+        "default": "https://myanimelist.net/images/anime/1935/127974.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1935/127974l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [],
+      "english": "Steins;Gate",
+      "japanese": "STEINS;GATE",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Steins;Gate"
+    },
+    "titles": [
+      { "type": "Default", "title": "Steins;Gate" },
+      { "type": "Japanese", "title": "STEINS;GATE" },
+      { "type": "English", "title": "Steins;Gate" }
+    ],
+    "score": 9.07,
+    "scoredBy": 1510290,
+    "rank": 6,
+    "popularity": 14,
+    "members": 2791485,
+    "favorites": 201444,
+    "synopsis": "Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Okabe founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable \"gadget\" the trio have created is a microwave that has the mystifying power to turn bananas into green goo.\n\nHowever, when Okabe attends a conference on time travel, he experiences a series of strange events that lead him to believe that there is more to the \"Phone Microwave\" gadget than meets the eye. Apparently able to send text messages into the past using the microwave, Okabe dabbles further with the \"time machine,\" attracting the ire and attention of the mysterious organization SERN.\n\nDue to the novel discovery, Okabe and his friends find themselves in an ever-present danger. As he works to mitigate the damage his invention has caused to the timeline, Okabe fights a battle to not only save his loved ones but also to preserve his degrading sanity.\n\n[Written by MAL Rewrite]",
+    "background": "Steins;Gate is based on 5pb. and Nitroplus' visual novel of the same title released in 2009. It serves as the second entry in the Science Adventure series.",
+    "approved": true,
+    "trailer": {
+      "id": "27OZc-ku6is",
+      "url": "https://youtu.be/27OZc-ku6is",
+      "embedUrl": "https://www.youtube.com/embed/27OZc-ku6is",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 24,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2011-04-06T00:00:00.000Z",
+      "airedTo": "2011-09-14T00:00:00.000Z"
+    },
+    "duration": 1440000,
+    "rating": "PG-13+",
+    "season": "Spring",
+    "year": 2011,
+    "producers": [
+      {
+        "id": 61,
+        "url": "https://myanimelist.net/anime/producer/61/Frontier_Works",
+        "type": "Producer",
+        "name": "Frontier Works"
+      },
+      {
+        "id": 108,
+        "url": "https://myanimelist.net/anime/producer/108/Media_Factory",
+        "type": "Producer",
+        "name": "Media Factory"
+      },
+      {
+        "id": 113,
+        "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten",
+        "type": "Producer",
+        "name": "Kadokawa Shoten"
+      },
+      {
+        "id": 166,
+        "url": "https://myanimelist.net/anime/producer/166/Movic",
+        "type": "Producer",
+        "name": "Movic"
+      },
+      {
+        "id": 238,
+        "url": "https://myanimelist.net/anime/producer/238/AT-X",
+        "type": "Producer",
+        "name": "AT-X"
+      },
+      {
+        "id": 352,
+        "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan",
+        "type": "Producer",
+        "name": "Kadokawa Pictures Japan"
+      },
+      {
+        "id": 459,
+        "url": "https://myanimelist.net/anime/producer/459/Nitroplus",
+        "type": "Producer",
+        "name": "Nitroplus"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 102,
+        "url": "https://myanimelist.net/anime/producer/102/Funimation",
+        "type": "Producer",
+        "name": "Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "id": 314,
+        "url": "https://myanimelist.net/anime/producer/314/White_Fox",
+        "type": "Producer",
+        "name": "White Fox"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "url": "https://myanimelist.net/anime/genre/8/Drama",
+        "type": "AnimeGenre",
+        "name": "Drama",
+        "genreType": "Genre"
+      },
+      {
+        "id": 24,
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi",
+        "type": "AnimeGenre",
+        "name": "Sci-Fi",
+        "genreType": "Genre"
+      },
+      {
+        "id": 41,
+        "url": "https://myanimelist.net/anime/genre/41/Suspense",
+        "type": "AnimeGenre",
+        "name": "Suspense",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 40,
+        "url": "https://myanimelist.net/anime/genre/40/Psychological",
+        "type": "AnimeGenre",
+        "name": "Psychological",
+        "genreType": "Theme"
+      },
+      {
+        "id": 78,
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel",
+        "type": "AnimeGenre",
+        "name": "Time Travel",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "02:05",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 02:05 (JST)"
+    }
+  },
+  {
+    "id": 27957,
+    "url": "https://myanimelist.net/anime/27957/Steins_Gate__Soumei_Eichi_no_Cognitive_Computing",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/10/71319t.jpg",
+        "default": "https://myanimelist.net/images/anime/10/71319.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/10/71319l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/10/71319t.webp",
+        "default": "https://myanimelist.net/images/anime/10/71319.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/10/71319l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [],
+      "english": "Steins;Gate: The Sagacious Wisdom of Cognitive Computing",
+      "japanese": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Steins;Gate: Soumei Eichi no Cognitive Computing"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Steins;Gate: Soumei Eichi no Cognitive Computing"
+      },
+      {
+        "type": "Japanese",
+        "title": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+      },
+      {
+        "type": "English",
+        "title": "Steins;Gate: The Sagacious Wisdom of Cognitive Computing"
+      }
+    ],
+    "score": 7.44,
+    "scoredBy": 63959,
+    "rank": 2373,
+    "popularity": 2106,
+    "members": 119171,
+    "favorites": 172,
+    "synopsis": "Mayuri Shiina brings a cognitive computing system—with a large pink Oopa toy serving as its terminal—to the Future Gadget Lab, insisting that it will help her and Kurisu Makise prepare fried chicken for the group, much to the dismay of Rintarou Okabe and Itaru \"Daru\" Hashida. Despite not having the proper ingredients, the Oopa cognitive computer assists Mayuri and Kurisu in perfecting a dish that the other lab members will enjoy.\n\nIn the following episodes, the cognitive computer continues to aid Okabe and his friends in their day-to-day lives. From helping Okabe and Kurisu to reconcile after an argument, to collecting input from the lab members to suggest improvements for the Lab; Okabe may not realize it yet, but his lab has gained a valuable asset!\n\n[Written by MAL Rewrite]",
+    "background": "Steins;Gate: Soumei Eichi no Cognitive Computing, or Steins;Gate: The Sagacious Wisdom of Cognitive Computing in English, consists of four short episodes. The shorts were streamed on IBM Japan’s website and official YouTube channel. The Cognitive Computing project is the result of a collaboration between Steins;Gate creator Chiyomaru Shikura of 5pb. Inc. and IBM Japan representatives. The series of shorts serve to promote IBM’s research in cognitive computing, or artificial intelligence.",
+    "approved": true,
+    "trailer": null,
+    "type": "ONA",
+    "source": "Visual novel",
+    "episodes": 4,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2014-10-15T00:00:00.000Z",
+      "airedTo": "2014-11-12T00:00:00.000Z"
+    },
+    "duration": 180000,
+    "rating": "PG-13+",
+    "season": "Unknown",
+    "year": null,
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "id": 314,
+        "url": "https://myanimelist.net/anime/producer/314/White_Fox",
+        "type": "Producer",
+        "name": "White Fox"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "url": "https://myanimelist.net/anime/genre/4/Comedy",
+        "type": "AnimeGenre",
+        "name": "Comedy",
+        "genreType": "Genre"
+      },
+      {
+        "id": 24,
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi",
+        "type": "AnimeGenre",
+        "name": "Sci-Fi",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 11577,
+    "url": "https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_D%C3%A9j%C3%A0_vu",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1611/112806t.jpg",
+        "default": "https://myanimelist.net/images/anime/1611/112806.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1611/112806l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1611/112806t.webp",
+        "default": "https://myanimelist.net/images/anime/1611/112806.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1611/112806l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Steins Gate Movie"],
+      "english": "Steins;Gate: The Movie - Load Region of Déjà Vu",
+      "japanese": "劇場版 シュタインズゲート 負荷領域のデジャヴ",
+      "german": "Steins; Gate: The Movie",
+      "spanish": "Steins;Gate: The Movie. Load Region Of Déjà Vu",
+      "french": "Steins; Gate: Le Film - Déjà Vu in the Load Area",
+      "default": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu"
+      },
+      { "type": "Synonym", "title": "Steins Gate Movie" },
+      {
+        "type": "Japanese",
+        "title": "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+      },
+      {
+        "type": "English",
+        "title": "Steins;Gate: The Movie - Load Region of Déjà Vu"
+      },
+      { "type": "German", "title": "Steins; Gate: The Movie" },
+      {
+        "type": "Spanish",
+        "title": "Steins;Gate: The Movie. Load Region Of Déjà Vu"
+      },
+      {
+        "type": "French",
+        "title": "Steins; Gate: Le Film - Déjà Vu in the Load Area"
+      }
+    ],
+    "score": 8.45,
+    "scoredBy": 380876,
+    "rank": 193,
+    "popularity": 383,
+    "members": 639341,
+    "favorites": 2828,
+    "synopsis": "After a year in America, Kurisu Makise returns to Akihabara and reunites with Rintarou Okabe. However, their reunion is cut short when Okabe begins to experience recurring flashes of other timelines as the consequences of his time traveling start to manifest. These side effects eventually culminate in Okabe suddenly vanishing from the world, and only the startled Kurisu has any memory of his existence.\n\nIn the midst of despair, Kurisu is faced with a truly arduous choice that will test both her duty as a scientist and her loyalty as a friend: follow Okabe's advice and stay away from traveling through time to avoid the potential consequences it may have on the world lines, or ignore it to rescue the person that she cherishes most. Regardless of her decision, the path she chooses is one that will affect the past, the present, and the future.\n\n[Written by MAL Rewrite]",
+    "background": "The series won the 2013 Newtype Anime Awards for Best Anime Film.",
+    "approved": true,
+    "trailer": {
+      "id": "rDsCNz3pWUg",
+      "url": "https://youtu.be/rDsCNz3pWUg",
+      "embedUrl": "https://www.youtube.com/embed/rDsCNz3pWUg",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "Movie",
+    "source": "Visual novel",
+    "episodes": 1,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2013-04-20T00:00:00.000Z",
+      "airedTo": null
+    },
+    "duration": 5400000,
+    "rating": "PG-13+",
+    "season": "Unknown",
+    "year": null,
+    "producers": [
+      {
+        "id": 61,
+        "url": "https://myanimelist.net/anime/producer/61/Frontier_Works",
+        "type": "Producer",
+        "name": "Frontier Works"
+      },
+      {
+        "id": 108,
+        "url": "https://myanimelist.net/anime/producer/108/Media_Factory",
+        "type": "Producer",
+        "name": "Media Factory"
+      },
+      {
+        "id": 166,
+        "url": "https://myanimelist.net/anime/producer/166/Movic",
+        "type": "Producer",
+        "name": "Movic"
+      },
+      {
+        "id": 238,
+        "url": "https://myanimelist.net/anime/producer/238/AT-X",
+        "type": "Producer",
+        "name": "AT-X"
+      },
+      {
+        "id": 352,
+        "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan",
+        "type": "Producer",
+        "name": "Kadokawa Pictures Japan"
+      },
+      {
+        "id": 963,
+        "url": "https://myanimelist.net/anime/producer/963/MAGES",
+        "type": "Producer",
+        "name": "MAGES."
+      },
+      {
+        "id": 2896,
+        "url": "https://myanimelist.net/anime/producer/2896/Cinema_Sunshine",
+        "type": "Producer",
+        "name": "Cinema Sunshine"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 102,
+        "url": "https://myanimelist.net/anime/producer/102/Funimation",
+        "type": "Producer",
+        "name": "Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "id": 314,
+        "url": "https://myanimelist.net/anime/producer/314/White_Fox",
+        "type": "Producer",
+        "name": "White Fox"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "url": "https://myanimelist.net/anime/genre/8/Drama",
+        "type": "AnimeGenre",
+        "name": "Drama",
+        "genreType": "Genre"
+      },
+      {
+        "id": 24,
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi",
+        "type": "AnimeGenre",
+        "name": "Sci-Fi",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 10863,
+    "url": "https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1805/123188t.jpg",
+        "default": "https://myanimelist.net/images/anime/1805/123188.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1805/123188l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1805/123188t.webp",
+        "default": "https://myanimelist.net/images/anime/1805/123188.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1805/123188l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [
+        "Steins Gate Special",
+        "Steins Gate Episode 25",
+        "Steins Gate OVA"
+      ],
+      "english": "Steins;Gate: Egoistic Poriomania",
+      "japanese": "シュタインズ ゲート 横行跋扈のポリオマニア",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Steins;Gate: Oukoubakko no Poriomania"
+    },
+    "titles": [
+      { "type": "Default", "title": "Steins;Gate: Oukoubakko no Poriomania" },
+      { "type": "Synonym", "title": "Steins Gate Special" },
+      { "type": "Synonym", "title": "Steins Gate Episode 25" },
+      { "type": "Synonym", "title": "Steins Gate OVA" },
+      {
+        "type": "Japanese",
+        "title": "シュタインズ ゲート 横行跋扈のポリオマニア"
+      },
+      { "type": "English", "title": "Steins;Gate: Egoistic Poriomania" }
+    ],
+    "score": 8.29,
+    "scoredBy": 295290,
+    "rank": 330,
+    "popularity": 546,
+    "members": 471806,
+    "favorites": 887,
+    "synopsis": "A few months after the events of Steins;Gate, Rintarou Okabe and his group of friends are invited to tag along with their acquaintance Faris NyanNyan, who is participating in a Rai-Net battle event in the United States. There, they meet up with an old colleague: Kurisu Makise, who has been recalling fragmented memories of events that happened in the other world lines in the form of dreams. She confronts Okabe, questioning him as to whether these events—particularly the incidents between the two of them—did indeed happen.\n\n[Written by MAL Rewrite]",
+    "background": null,
+    "approved": true,
+    "trailer": {
+      "id": "aEPMFgHTVN0",
+      "url": "https://youtu.be/aEPMFgHTVN0",
+      "embedUrl": "https://www.youtube.com/embed/aEPMFgHTVN0",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "Special",
+    "source": "Visual novel",
+    "episodes": 1,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2012-02-22T00:00:00.000Z",
+      "airedTo": null
+    },
+    "duration": 1440000,
+    "rating": "PG-13+",
+    "season": "Unknown",
+    "year": null,
+    "producers": [
+      {
+        "id": 61,
+        "url": "https://myanimelist.net/anime/producer/61/Frontier_Works",
+        "type": "Producer",
+        "name": "Frontier Works"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 102,
+        "url": "https://myanimelist.net/anime/producer/102/Funimation",
+        "type": "Producer",
+        "name": "Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "id": 314,
+        "url": "https://myanimelist.net/anime/producer/314/White_Fox",
+        "type": "Producer",
+        "name": "White Fox"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "url": "https://myanimelist.net/anime/genre/4/Comedy",
+        "type": "AnimeGenre",
+        "name": "Comedy",
+        "genreType": "Genre"
+      },
+      {
+        "id": 24,
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi",
+        "type": "AnimeGenre",
+        "name": "Sci-Fi",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 78,
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel",
+        "type": "AnimeGenre",
+        "name": "Time Travel",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 32188,
+    "url": "https://myanimelist.net/anime/32188/Steins_Gate__Kyoukaimenjou_no_Missing_Link_-_Divide_By_Zero",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/7/77324t.jpg",
+        "default": "https://myanimelist.net/images/anime/7/77324.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/7/77324l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/7/77324t.webp",
+        "default": "https://myanimelist.net/images/anime/7/77324.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/7/77324l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Steins Gate: Episode 23 (β)", "Open the Missing Link"],
+      "english": "Steins;Gate: Open the Missing Link - Divide By Zero",
+      "japanese": "シュタインズ・ゲート境界面上のミッシングリンク-Divide By Zero-",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero"
+      },
+      { "type": "Synonym", "title": "Steins Gate: Episode 23 (β)" },
+      { "type": "Synonym", "title": "Open the Missing Link" },
+      {
+        "type": "Japanese",
+        "title": "シュタインズ・ゲート境界面上のミッシングリンク-Divide By Zero-"
+      },
+      {
+        "type": "English",
+        "title": "Steins;Gate: Open the Missing Link - Divide By Zero"
+      }
+    ],
+    "score": 8.27,
+    "scoredBy": 160839,
+    "rank": 347,
+    "popularity": 965,
+    "members": 287912,
+    "favorites": 476,
+    "synopsis": "Having reached his emotional breaking point, Rintarou Okabe refuses to continue aiding time traveler Suzuha Amane in her mission to prevent World War III, believing any further efforts to save Makise Kurisu will be in vain. Shortly after, Okabe abandons his mad scientist persona and becomes a seemingly regular university student. \n\nOkabe's close friend Mayuri Shiina perceives him to be recovering from his trauma and is visibly happy. However, something still seems to be bothering Okabe. Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero marks the beginning of a critical divergence—a timeline in which the burden of fate escalates beyond one's limits.\n\n[Written by MAL Rewrite]",
+    "background": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero aired on December 3, 2015 during the rebroadcast of Steins;Gate to promote the Steins;Gate 0 visual novel, which was subsequently released on December 10, 2015. It was bundled with the Steins;Gate complete Blu-ray box set, released in Japan on February 5, 2016 and in North America on February 5, 2019 by Funimation Entertainment. The special incorporates a majority of the Steins;Gate anime's 23rd episode, \"Open the Steins Gate,\" but features an entirely new alternative ending in its latter half.",
+    "approved": true,
+    "trailer": null,
+    "type": "TV Special",
+    "source": "Visual novel",
+    "episodes": 1,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2015-12-03T00:00:00.000Z",
+      "airedTo": null
+    },
+    "duration": 1440000,
+    "rating": "PG-13+",
+    "season": "Unknown",
+    "year": null,
+    "producers": [
+      {
+        "id": 61,
+        "url": "https://myanimelist.net/anime/producer/61/Frontier_Works",
+        "type": "Producer",
+        "name": "Frontier Works"
+      },
+      {
+        "id": 108,
+        "url": "https://myanimelist.net/anime/producer/108/Media_Factory",
+        "type": "Producer",
+        "name": "Media Factory"
+      },
+      {
+        "id": 166,
+        "url": "https://myanimelist.net/anime/producer/166/Movic",
+        "type": "Producer",
+        "name": "Movic"
+      },
+      {
+        "id": 238,
+        "url": "https://myanimelist.net/anime/producer/238/AT-X",
+        "type": "Producer",
+        "name": "AT-X"
+      },
+      {
+        "id": 352,
+        "url": "https://myanimelist.net/anime/producer/352/Kadokawa_Pictures_Japan",
+        "type": "Producer",
+        "name": "Kadokawa Pictures Japan"
+      },
+      {
+        "id": 459,
+        "url": "https://myanimelist.net/anime/producer/459/Nitroplus",
+        "type": "Producer",
+        "name": "Nitroplus"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 102,
+        "url": "https://myanimelist.net/anime/producer/102/Funimation",
+        "type": "Producer",
+        "name": "Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "id": 314,
+        "url": "https://myanimelist.net/anime/producer/314/White_Fox",
+        "type": "Producer",
+        "name": "White Fox"
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi",
+        "type": "AnimeGenre",
+        "name": "Sci-Fi",
+        "genreType": "Genre"
+      },
+      {
+        "id": 41,
+        "url": "https://myanimelist.net/anime/genre/41/Suspense",
+        "type": "AnimeGenre",
+        "name": "Suspense",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 78,
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel",
+        "type": "AnimeGenre",
+        "name": "Time Travel",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 30484,
+    "url": "https://myanimelist.net/anime/30484/Steins_Gate_0",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1375/93521t.jpg",
+        "default": "https://myanimelist.net/images/anime/1375/93521.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1375/93521l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1375/93521t.webp",
+        "default": "https://myanimelist.net/images/anime/1375/93521.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1375/93521l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Steins,Gate Zero"],
+      "english": "Steins;Gate 0",
+      "japanese": "シュタインズ・ゲート ゼロ",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Steins;Gate 0"
+    },
+    "titles": [
+      { "type": "Default", "title": "Steins;Gate 0" },
+      { "type": "Synonym", "title": "Steins,Gate Zero" },
+      { "type": "Japanese", "title": "シュタインズ・ゲート ゼロ" },
+      { "type": "English", "title": "Steins;Gate 0" }
+    ],
+    "score": 8.55,
+    "scoredBy": 470951,
+    "rank": 136,
+    "popularity": 206,
+    "members": 949249,
+    "favorites": 12762,
+    "synopsis": "The eccentric, self-proclaimed mad scientist Rintarou Okabe has become a shell of his former self. Depressed and traumatized after failing to rescue his friend Makise Kurisu, he has decided to forsake his mad scientist alter ego and live as an ordinary college student. Surrounded by friends who know little of his time travel experiences, Okabe spends his days trying to forget the horrors of his adventures alone. \n\nWhile working as a receptionist at a college technology forum, Okabe meets the short, spunky Maho Hiyajo, who \nlater turns out to be the interpreter at the forum's presentation, conducted by Professor Alexis Leskinen. In front of a stunned crowd, Alexis and Maho unveil Amadeus—a revolutionary AI capable of storing a person's memories and creating a perfect simulation of that person complete with their personality and quirks. Meeting with Maho and Alexis after the presentation, Okabe learns that the two were Kurisu's colleagues in university, and that they have simulated her in Amadeus. Hired by Alexis to research the simulation's behavior, Okabe is given the chance to interact with the shadow of a long-lost dear friend. Dangerously tangled in the past, Okabe must face the harsh reality and carefully maneuver around the disastrous consequences that come with disturbing the natural flow of time.\n\n[Written by MAL Rewrite]",
+    "background": "The Steins;Gate 0 anime partially adapts and continues the story of the visual novel of the same name. The anime is considered to be the final iteration of the Steins;Gate 0 story.",
+    "approved": true,
+    "trailer": {
+      "id": "NhExBlBnmQI",
+      "url": "https://youtu.be/NhExBlBnmQI",
+      "embedUrl": "https://www.youtube.com/embed/NhExBlBnmQI",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 23,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2018-04-12T00:00:00.000Z",
+      "airedTo": "2018-09-27T00:00:00.000Z"
+    },
+    "duration": 1380000,
+    "rating": "PG-13+",
+    "season": "Spring",
+    "year": 2018,
+    "producers": [
+      {
+        "id": 61,
+        "url": "https://myanimelist.net/anime/producer/61/Frontier_Works",
+        "type": "Producer",
+        "name": "Frontier Works"
+      },
+      {
+        "id": 166,
+        "url": "https://myanimelist.net/anime/producer/166/Movic",
+        "type": "Producer",
+        "name": "Movic"
+      },
+      {
+        "id": 1696,
+        "url": "https://myanimelist.net/anime/producer/1696/Kadokawa",
+        "type": "Producer",
+        "name": "Kadokawa"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 102,
+        "url": "https://myanimelist.net/anime/producer/102/Funimation",
+        "type": "Producer",
+        "name": "Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "id": 314,
+        "url": "https://myanimelist.net/anime/producer/314/White_Fox",
+        "type": "Producer",
+        "name": "White Fox"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "url": "https://myanimelist.net/anime/genre/8/Drama",
+        "type": "AnimeGenre",
+        "name": "Drama",
+        "genreType": "Genre"
+      },
+      {
+        "id": 24,
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi",
+        "type": "AnimeGenre",
+        "name": "Sci-Fi",
+        "genreType": "Genre"
+      },
+      {
+        "id": 41,
+        "url": "https://myanimelist.net/anime/genre/41/Suspense",
+        "type": "AnimeGenre",
+        "name": "Suspense",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 78,
+        "url": "https://myanimelist.net/anime/genre/78/Time_Travel",
+        "type": "AnimeGenre",
+        "name": "Time Travel",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": {
+      "day": "Thursdays",
+      "time": "01:35",
+      "timezone": "Asia/Tokyo",
+      "string": "Thursdays at 01:35 (JST)"
+    }
+  },
+  {
+    "id": 37492,
+    "url": "https://myanimelist.net/anime/37492/Steins_Gate_0__Kesshou_Takei_no_Valentine_-_Bittersweet_Intermedio",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1163/97351t.jpg",
+        "default": "https://myanimelist.net/images/anime/1163/97351.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1163/97351l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1163/97351t.webp",
+        "default": "https://myanimelist.net/images/anime/1163/97351.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1163/97351l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Steins,Gate Zero", "Steins,Gate 0 Special"],
+      "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+      "japanese": "結晶多形のヴァレンティヌス Bittersweet Intermedio",
+      "german": null,
+      "spanish": "Steins;Gate 0 Episodio 24: Cristal polimorfo en San Valentín",
+      "french": null,
+      "default": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio"
+      },
+      { "type": "Synonym", "title": "Steins,Gate Zero" },
+      { "type": "Synonym", "title": "Steins,Gate 0 Special" },
+      {
+        "type": "Japanese",
+        "title": "結晶多形のヴァレンティヌス Bittersweet Intermedio"
+      },
+      {
+        "type": "English",
+        "title": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-"
+      },
+      {
+        "type": "Spanish",
+        "title": "Steins;Gate 0 Episodio 24: Cristal polimorfo en San Valentín"
+      }
+    ],
+    "score": 7.28,
+    "scoredBy": 61278,
+    "rank": 3175,
+    "popularity": 2094,
+    "members": 119955,
+    "favorites": 209,
+    "synopsis": "With Valentine's Day just around the corner, the girls of the Future Gadget Lab discover that Kagari has never celebrated the occasion before! Determined to make this year's holiday the best one yet, they all set out to make delicious homemade chocolates together.\n\nHowever, with many of their quirks causing kitchen disasters, this may prove to be too hard a task. Will their feelings ever reach those of their heart's desire?\n\n[Written by MAL Rewrite]",
+    "background": null,
+    "approved": true,
+    "trailer": {
+      "id": "0_d99rIQELo",
+      "url": "https://youtu.be/0_d99rIQELo",
+      "embedUrl": "https://www.youtube.com/embed/0_d99rIQELo",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "Special",
+    "source": "Visual novel",
+    "episodes": 1,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2018-12-21T00:00:00.000Z",
+      "airedTo": null
+    },
+    "duration": 1380000,
+    "rating": "PG-13+",
+    "season": "Unknown",
+    "year": null,
+    "producers": [],
+    "licensors": [
+      {
+        "id": 102,
+        "url": "https://myanimelist.net/anime/producer/102/Funimation",
+        "type": "Producer",
+        "name": "Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "id": 314,
+        "url": "https://myanimelist.net/anime/producer/314/White_Fox",
+        "type": "Producer",
+        "name": "White Fox"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "url": "https://myanimelist.net/anime/genre/4/Comedy",
+        "type": "AnimeGenre",
+        "name": "Comedy",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 28907,
+    "url": "https://myanimelist.net/anime/28907/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/8/76222t.jpg",
+        "default": "https://myanimelist.net/images/anime/8/76222.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/8/76222l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/8/76222t.webp",
+        "default": "https://myanimelist.net/images/anime/8/76222.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/8/76222l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Gate: Thus the JSDF Fought There!"],
+      "english": "GATE",
+      "japanese": "GATE（ゲート）自衛隊　彼の地にて、斯く戦えり",
+      "german": "GATE",
+      "spanish": "GATE",
+      "french": "Gate: Au-delà de la Porte",
+      "default": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
+      },
+      { "type": "Synonym", "title": "Gate: Thus the JSDF Fought There!" },
+      {
+        "type": "Japanese",
+        "title": "GATE（ゲート）自衛隊　彼の地にて、斯く戦えり"
+      },
+      { "type": "English", "title": "GATE" },
+      { "type": "German", "title": "GATE" },
+      { "type": "Spanish", "title": "GATE" },
+      { "type": "French", "title": "Gate: Au-delà de la Porte" }
+    ],
+    "score": 7.68,
+    "scoredBy": 487361,
+    "rank": 1448,
+    "popularity": 238,
+    "members": 881239,
+    "favorites": 6682,
+    "synopsis": "Off-duty Japan Self-Defense Forces (JSDF) officer and otaku Youji Itami is on his way to attend a doujin convention in Ginza, Tokyo when a mysterious portal in the shape of a large gate suddenly appears. From this gate, supernatural creatures and warriors clad in medieval armor emerge, charging through the city, killing and destroying everything in their path. With swift actions, Youji saves as many lives as he can while the rest of the JSDF direct their efforts toward stopping the invasion.\n\nThree months after the attack, Youji has been tasked with leading a special recon team, as part of a JSDF task force, that will be sent to the world beyond the gate—now being referred to as the \"Special Region.\" They must travel into this unknown world in order to learn more about what they are dealing with and attempt to befriend the locals in hopes of creating peaceful ties with the ruling empire. But if they fail, they face the consequence of participating in a devastating war that will engulf both sides of the gate.\n\n[Written by MAL Rewrite]",
+    "background": null,
+    "approved": true,
+    "trailer": {
+      "id": "mdTjE_jHnKk",
+      "url": "https://youtu.be/mdTjE_jHnKk",
+      "embedUrl": "https://www.youtube.com/embed/mdTjE_jHnKk",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2015-07-04T00:00:00.000Z",
+      "airedTo": "2015-09-19T00:00:00.000Z"
+    },
+    "duration": 1380000,
+    "rating": "R-17+",
+    "season": "Summer",
+    "year": 2015,
+    "producers": [
+      {
+        "id": 79,
+        "url": "https://myanimelist.net/anime/producer/79/Genco",
+        "type": "Producer",
+        "name": "Genco"
+      },
+      {
+        "id": 306,
+        "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule",
+        "type": "Producer",
+        "name": "Magic Capsule"
+      },
+      {
+        "id": 415,
+        "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan",
+        "type": "Producer",
+        "name": "Warner Bros. Japan"
+      },
+      {
+        "id": 460,
+        "url": "https://myanimelist.net/anime/producer/460/KlockWorx",
+        "type": "Producer",
+        "name": "KlockWorx"
+      },
+      {
+        "id": 777,
+        "url": "https://myanimelist.net/anime/producer/777/Showgate",
+        "type": "Producer",
+        "name": "Showgate"
+      },
+      {
+        "id": 1097,
+        "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games",
+        "type": "Producer",
+        "name": "Bandai Namco Games"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 376,
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks",
+        "type": "Producer",
+        "name": "Sentai Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "id": 56,
+        "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures",
+        "type": "Producer",
+        "name": "A-1 Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "url": "https://myanimelist.net/anime/genre/1/Action",
+        "type": "AnimeGenre",
+        "name": "Action",
+        "genreType": "Genre"
+      },
+      {
+        "id": 2,
+        "url": "https://myanimelist.net/anime/genre/2/Adventure",
+        "type": "AnimeGenre",
+        "name": "Adventure",
+        "genreType": "Genre"
+      },
+      {
+        "id": 10,
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy",
+        "type": "AnimeGenre",
+        "name": "Fantasy",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 62,
+        "url": "https://myanimelist.net/anime/genre/62/Isekai",
+        "type": "AnimeGenre",
+        "name": "Isekai",
+        "genreType": "Theme"
+      },
+      {
+        "id": 38,
+        "url": "https://myanimelist.net/anime/genre/38/Military",
+        "type": "AnimeGenre",
+        "name": "Military",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "00:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 00:30 (JST)"
+    }
+  },
+  {
+    "id": 31637,
+    "url": "https://myanimelist.net/anime/31637/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri_Part_2",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/8/77382t.jpg",
+        "default": "https://myanimelist.net/images/anime/8/77382.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/8/77382l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/8/77382t.webp",
+        "default": "https://myanimelist.net/images/anime/8/77382.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/8/77382l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [
+        "Gate: Jieitai Kanochi nite",
+        "Kaku Tatakaeri 2nd Season",
+        "Gate: Thus the JSDF Fought There! Fire Dragon Arc",
+        "Gate: Jieitai Kanochi nite",
+        "Kaku Tatakaeri - Enryuu-hen"
+      ],
+      "english": "GATE Part 2",
+      "japanese": "GATE（ゲート）自衛隊　彼の地にて、斯く戦えり　第2クール",
+      "german": "GATE Staffel 2",
+      "spanish": "GATE Temporada 2",
+      "french": "Gate : Au-delà de la Porte",
+      "default": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2"
+      },
+      { "type": "Synonym", "title": "Gate: Jieitai Kanochi nite" },
+      { "type": "Synonym", "title": "Kaku Tatakaeri 2nd Season" },
+      {
+        "type": "Synonym",
+        "title": "Gate: Thus the JSDF Fought There! Fire Dragon Arc"
+      },
+      { "type": "Synonym", "title": "Gate: Jieitai Kanochi nite" },
+      { "type": "Synonym", "title": "Kaku Tatakaeri - Enryuu-hen" },
+      {
+        "type": "Japanese",
+        "title": "GATE（ゲート）自衛隊　彼の地にて、斯く戦えり　第2クール"
+      },
+      { "type": "English", "title": "GATE Part 2" },
+      { "type": "German", "title": "GATE Staffel 2" },
+      { "type": "Spanish", "title": "GATE Temporada 2" },
+      { "type": "French", "title": "Gate : Au-delà de la Porte" }
+    ],
+    "score": 7.71,
+    "scoredBy": 364680,
+    "rank": 1352,
+    "popularity": 411,
+    "members": 601227,
+    "favorites": 1959,
+    "synopsis": "Several months have passed since the infamous Ginza Incident, with tensions between the Empire and JSDF escalating in the vast and mysterious \"Special Region\" over peace negotiations. The greed and curiosity of the global powers have also begun to grow, as reports about the technological limitations of the magical realm's archaic civilizations come to light. \n\nMeanwhile, Lieutenant Youji Itami and his merry band of female admirers struggle to navigate the complex political intrigue that plagues the Empire's court. Despite her best efforts, Princess Piña Co Lada faces difficulties attempting to convince her father that the JSDF has no intention of conquering their kingdom. Pressured from both sides of the Gate, Itami must consider even more drastic measures to fulfill his mission.\n\n[Written by MAL Rewrite]",
+    "background": "The actual Japan Self Defense Force has used images from Gate: Jieitai Kanochi nite, Kaku Tatakaeri as part of its recruiting efforts.",
+    "approved": true,
+    "trailer": {
+      "id": "TrwXsOTWUeU",
+      "url": "https://youtu.be/TrwXsOTWUeU",
+      "embedUrl": "https://www.youtube.com/embed/TrwXsOTWUeU",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2016-01-09T00:00:00.000Z",
+      "airedTo": "2016-03-26T00:00:00.000Z"
+    },
+    "duration": 1380000,
+    "rating": "R-17+",
+    "season": "Winter",
+    "year": 2016,
+    "producers": [
+      {
+        "id": 79,
+        "url": "https://myanimelist.net/anime/producer/79/Genco",
+        "type": "Producer",
+        "name": "Genco"
+      },
+      {
+        "id": 415,
+        "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan",
+        "type": "Producer",
+        "name": "Warner Bros. Japan"
+      },
+      {
+        "id": 460,
+        "url": "https://myanimelist.net/anime/producer/460/KlockWorx",
+        "type": "Producer",
+        "name": "KlockWorx"
+      },
+      {
+        "id": 777,
+        "url": "https://myanimelist.net/anime/producer/777/Showgate",
+        "type": "Producer",
+        "name": "Showgate"
+      },
+      {
+        "id": 1097,
+        "url": "https://myanimelist.net/anime/producer/1097/Bandai_Namco_Games",
+        "type": "Producer",
+        "name": "Bandai Namco Games"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 376,
+        "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks",
+        "type": "Producer",
+        "name": "Sentai Filmworks"
+      }
+    ],
+    "studios": [
+      {
+        "id": 56,
+        "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures",
+        "type": "Producer",
+        "name": "A-1 Pictures"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "url": "https://myanimelist.net/anime/genre/1/Action",
+        "type": "AnimeGenre",
+        "name": "Action",
+        "genreType": "Genre"
+      },
+      {
+        "id": 2,
+        "url": "https://myanimelist.net/anime/genre/2/Adventure",
+        "type": "AnimeGenre",
+        "name": "Adventure",
+        "genreType": "Genre"
+      },
+      {
+        "id": 10,
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy",
+        "type": "AnimeGenre",
+        "name": "Fantasy",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 62,
+        "url": "https://myanimelist.net/anime/genre/62/Isekai",
+        "type": "AnimeGenre",
+        "name": "Isekai",
+        "genreType": "Theme"
+      },
+      {
+        "id": 38,
+        "url": "https://myanimelist.net/anime/genre/38/Military",
+        "type": "AnimeGenre",
+        "name": "Military",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": {
+      "day": "Saturdays",
+      "time": "01:05",
+      "timezone": "Asia/Tokyo",
+      "string": "Saturdays at 01:05 (JST)"
+    }
+  },
+  {
+    "id": 6624,
+    "url": "https://myanimelist.net/anime/6624/Kara_no_Kyoukai_Remix__Gate_of_Seventh_Heaven",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/11/15175t.jpg",
+        "default": "https://myanimelist.net/images/anime/11/15175.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/11/15175l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/11/15175t.webp",
+        "default": "https://myanimelist.net/images/anime/11/15175.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/11/15175l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["The Garden of Sinners: Gate of Seventh Heaven"],
+      "english": "The Garden of Sinners Remix: Gate of Seventh Heaven",
+      "japanese": "空の境界 Remix -Gate of seventh heaven-",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Kara no Kyoukai Remix: Gate of Seventh Heaven"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Kara no Kyoukai Remix: Gate of Seventh Heaven"
+      },
+      {
+        "type": "Synonym",
+        "title": "The Garden of Sinners: Gate of Seventh Heaven"
+      },
+      {
+        "type": "Japanese",
+        "title": "空の境界 Remix -Gate of seventh heaven-"
+      },
+      {
+        "type": "English",
+        "title": "The Garden of Sinners Remix: Gate of Seventh Heaven"
+      }
+    ],
+    "score": 7.53,
+    "scoredBy": 21522,
+    "rank": 1987,
+    "popularity": 3513,
+    "members": 51169,
+    "favorites": 62,
+    "synopsis": "In August of 1995, Mikiya Kokutou meets a young kimono-clad woman named Shiki Ryougi. When he finds out that they go to the same school, he attempts to befriend her. Though her upbringing is unconventional and she herself is strange, Mikiya is not deterred, and Shiki gradually opens up to him. But Mikiya's life will be changed forever by this simple meeting, and in ways that he never imagined, as he begins to see a deadly side to his new friend...\n\n[Written by MAL Rewrite]",
+    "background": null,
+    "approved": true,
+    "trailer": null,
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2009-03-14T00:00:00.000Z",
+      "airedTo": null
+    },
+    "duration": 3660000,
+    "rating": "R-17+",
+    "season": "Unknown",
+    "year": null,
+    "producers": [
+      {
+        "id": 17,
+        "url": "https://myanimelist.net/anime/producer/17/Aniplex",
+        "type": "Producer",
+        "name": "Aniplex"
+      },
+      {
+        "id": 159,
+        "url": "https://myanimelist.net/anime/producer/159/Kodansha",
+        "type": "Producer",
+        "name": "Kodansha"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 493,
+        "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America",
+        "type": "Producer",
+        "name": "Aniplex of America"
+      }
+    ],
+    "studios": [
+      {
+        "id": 43,
+        "url": "https://myanimelist.net/anime/producer/43/ufotable",
+        "type": "Producer",
+        "name": "ufotable"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "url": "https://myanimelist.net/anime/genre/1/Action",
+        "type": "AnimeGenre",
+        "name": "Action",
+        "genreType": "Genre"
+      },
+      {
+        "id": 10,
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy",
+        "type": "AnimeGenre",
+        "name": "Fantasy",
+        "genreType": "Genre"
+      },
+      {
+        "id": 7,
+        "url": "https://myanimelist.net/anime/genre/7/Mystery",
+        "type": "AnimeGenre",
+        "name": "Mystery",
+        "genreType": "Genre"
+      },
+      {
+        "id": 22,
+        "url": "https://myanimelist.net/anime/genre/22/Romance",
+        "type": "AnimeGenre",
+        "name": "Romance",
+        "genreType": "Genre"
+      },
+      {
+        "id": 41,
+        "url": "https://myanimelist.net/anime/genre/41/Suspense",
+        "type": "AnimeGenre",
+        "name": "Suspense",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 57100,
+    "url": "https://myanimelist.net/anime/57100/The_New_Gate",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1898/141857t.jpg",
+        "default": "https://myanimelist.net/images/anime/1898/141857.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1898/141857l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1898/141857t.webp",
+        "default": "https://myanimelist.net/images/anime/1898/141857.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1898/141857l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [],
+      "english": "The New Gate",
+      "japanese": "THE NEW GATE",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "The New Gate"
+    },
+    "titles": [
+      { "type": "Default", "title": "The New Gate" },
+      { "type": "Japanese", "title": "THE NEW GATE" },
+      { "type": "English", "title": "The New Gate" }
+    ],
+    "score": 6.46,
+    "scoredBy": 68862,
+    "rank": 8008,
+    "popularity": 1765,
+    "members": 149137,
+    "favorites": 421,
+    "synopsis": "Trapped with thousands of people in The New Gate, a virtual reality game, the elite player Shinya Kiritani resolves to clear the game and finally return home. However, after he manages to single-handedly defeat the final boss, Shinya is transported to a new world—seemingly indistinguishable from the one he just escaped.\n\nShinya discovers that as long as the game menu and his skills are unchanged, he cannot leave this oddly familiar world. In his search of a way to break out from this new dimensional prison, Shinya encounters Tiera Lucent, a hotel receptionist who happens to be a protégée of Schnee Raizar—one of Shinya's former party members. With this glimmer of hope, Shinya strives to reunite with Schnee and find out the truth about The New Gate.\n\n[Written by MAL Rewrite]",
+    "background": null,
+    "approved": true,
+    "trailer": {
+      "id": "3XUJOkFXRiw",
+      "url": "https://youtu.be/3XUJOkFXRiw",
+      "embedUrl": "https://www.youtube.com/embed/3XUJOkFXRiw",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2024-04-14T00:00:00.000Z",
+      "airedTo": "2024-06-30T00:00:00.000Z"
+    },
+    "duration": 1380000,
+    "rating": "PG-13+",
+    "season": "Spring",
+    "year": 2024,
+    "producers": [
+      {
+        "id": 143,
+        "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System",
+        "type": "Producer",
+        "name": "Mainichi Broadcasting System"
+      },
+      {
+        "id": 460,
+        "url": "https://myanimelist.net/anime/producer/460/KlockWorx",
+        "type": "Producer",
+        "name": "KlockWorx"
+      },
+      {
+        "id": 1344,
+        "url": "https://myanimelist.net/anime/producer/1344/King_Records",
+        "type": "Producer",
+        "name": "King Records"
+      },
+      {
+        "id": 1996,
+        "url": "https://myanimelist.net/anime/producer/1996/MAGNET",
+        "type": "Producer",
+        "name": "MAGNET"
+      },
+      {
+        "id": 2236,
+        "url": "https://myanimelist.net/anime/producer/2236/CTW",
+        "type": "Producer",
+        "name": "CTW"
+      },
+      {
+        "id": 2592,
+        "url": "https://myanimelist.net/anime/producer/2592/AlphaPolis",
+        "type": "Producer",
+        "name": "AlphaPolis"
+      },
+      {
+        "id": 2918,
+        "url": "https://myanimelist.net/anime/producer/2918/Studio_Bus",
+        "type": "Producer",
+        "name": "Studio Bus"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "id": 1687,
+        "url": "https://myanimelist.net/anime/producer/1687/Yokohama_Animation_Lab",
+        "type": "Producer",
+        "name": "Yokohama Animation Lab"
+      },
+      {
+        "id": 2600,
+        "url": "https://myanimelist.net/anime/producer/2600/Cloud_Hearts",
+        "type": "Producer",
+        "name": "Cloud Hearts"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "url": "https://myanimelist.net/anime/genre/1/Action",
+        "type": "AnimeGenre",
+        "name": "Action",
+        "genreType": "Genre"
+      },
+      {
+        "id": 2,
+        "url": "https://myanimelist.net/anime/genre/2/Adventure",
+        "type": "AnimeGenre",
+        "name": "Adventure",
+        "genreType": "Genre"
+      },
+      {
+        "id": 10,
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy",
+        "type": "AnimeGenre",
+        "name": "Fantasy",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 62,
+        "url": "https://myanimelist.net/anime/genre/62/Isekai",
+        "type": "AnimeGenre",
+        "name": "Isekai",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": {
+      "day": "Sundays",
+      "time": "01:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 01:30 (JST)"
+    }
+  },
+  {
+    "id": 61973,
+    "url": "https://myanimelist.net/anime/61973/Gate_Season_2__Jieitai_Kanoumi_nite_Kaku_Tatakaeri",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1217/152123t.jpg",
+        "default": "https://myanimelist.net/images/anime/1217/152123.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1217/152123l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1217/152123t.webp",
+        "default": "https://myanimelist.net/images/anime/1217/152123.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1217/152123l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Gate Season 2: Thus the JSDF Fought in Their Seas!"],
+      "english": "Gate 2: Tides of Conflict",
+      "japanese": "GATE SEASON2 自衛隊 彼の海にて、斯く戦えり",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Gate Season 2: Jieitai Kanoumi nite, Kaku Tatakaeri"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Gate Season 2: Jieitai Kanoumi nite, Kaku Tatakaeri"
+      },
+      {
+        "type": "Synonym",
+        "title": "Gate Season 2: Thus the JSDF Fought in Their Seas!"
+      },
+      {
+        "type": "Japanese",
+        "title": "GATE SEASON2 自衛隊 彼の海にて、斯く戦えり"
+      },
+      { "type": "English", "title": "Gate 2: Tides of Conflict" }
+    ],
+    "score": null,
+    "scoredBy": null,
+    "rank": null,
+    "popularity": 4463,
+    "members": 32314,
+    "favorites": 62,
+    "synopsis": "Following the reopening of the mysterious 'Gate,' the Japanese Self-Defense Forces continue diplomatic and exploratory missions in the Special Region, a realm parallel to our world. When an American journalist is kidnapped in this region's troubled seas, an elite Japanese Maritime unit embarks on a high-stakes rescue mission. This new chapter of the acclaimed fantasy saga explores fresh adventures, diplomatic tensions, and thrilling action in a world beyond imagination.\n\n(Source: Oshi)",
+    "background": null,
+    "approved": true,
+    "trailer": {
+      "id": "2P40hX1vK1E",
+      "url": "https://youtu.be/2P40hX1vK1E",
+      "embedUrl": "https://www.youtube.com/embed/2P40hX1vK1E",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": null,
+    "airInfo": {
+      "status": "Not Yet Aired",
+      "airing": false,
+      "airedFrom": "2027-01-01T00:00:00.000Z",
+      "airedTo": null
+    },
+    "duration": null,
+    "rating": "Unknown",
+    "season": "Unknown",
+    "year": null,
+    "producers": [
+      {
+        "id": 3199,
+        "url": "https://myanimelist.net/anime/producer/3199/Oshi",
+        "type": "Producer",
+        "name": "Oshi"
+      },
+      {
+        "id": 3200,
+        "url": "https://myanimelist.net/anime/producer/3200/Kasagi_Labo",
+        "type": "Producer",
+        "name": "Kasagi Labo"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "id": 1529,
+        "url": "https://myanimelist.net/anime/producer/1529/Studio_M2",
+        "type": "Producer",
+        "name": "Studio M2"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "url": "https://myanimelist.net/anime/genre/1/Action",
+        "type": "AnimeGenre",
+        "name": "Action",
+        "genreType": "Genre"
+      },
+      {
+        "id": 2,
+        "url": "https://myanimelist.net/anime/genre/2/Adventure",
+        "type": "AnimeGenre",
+        "name": "Adventure",
+        "genreType": "Genre"
+      },
+      {
+        "id": 10,
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy",
+        "type": "AnimeGenre",
+        "name": "Fantasy",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 62,
+        "url": "https://myanimelist.net/anime/genre/62/Isekai",
+        "type": "AnimeGenre",
+        "name": "Isekai",
+        "genreType": "Theme"
+      },
+      {
+        "id": 38,
+        "url": "https://myanimelist.net/anime/genre/38/Military",
+        "type": "AnimeGenre",
+        "name": "Military",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    }
+  },
+  {
+    "id": 8241,
+    "url": "https://myanimelist.net/anime/8241/Rio__Rainbow_Gate",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1718/153287t.jpg",
+        "default": "https://myanimelist.net/images/anime/1718/153287.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1718/153287l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1718/153287t.webp",
+        "default": "https://myanimelist.net/images/anime/1718/153287.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1718/153287l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Rio - Rainbow Gate"],
+      "english": "Rio - Rainbow Gate!: Reshuffle",
+      "japanese": "リオ レインボーゲート!",
+      "german": null,
+      "spanish": "Rio: Rainbow Gate",
+      "french": null,
+      "default": "Rio: Rainbow Gate!"
+    },
+    "titles": [
+      { "type": "Default", "title": "Rio: Rainbow Gate!" },
+      { "type": "Synonym", "title": "Rio - Rainbow Gate" },
+      { "type": "Japanese", "title": "リオ レインボーゲート!" },
+      { "type": "English", "title": "Rio - Rainbow Gate!: Reshuffle" },
+      { "type": "Spanish", "title": "Rio: Rainbow Gate" }
+    ],
+    "score": 5.85,
+    "scoredBy": 15900,
+    "rank": 11490,
+    "popularity": 3800,
+    "members": 44646,
+    "favorites": 38,
+    "synopsis": "The \"Howard Resort Hotel\" is an entertainment destination where people gather from around the world to grab huge fortunes. In the casino is a beautiful female dealer named Rio Rollins, known far and wide as the \"Goddess of Victory\".\n\nIn order to approach closer to her mother, one of history's greatest dealers, she does battle to gather up the legendary cards called \"gates\". Those who gather all 13 gate cards are presented with the title MVCD (Most Valuable Casino Dealer), proof that they are a top dealer.\n\nSet in a vast resort, an exciting battle begins with rival dealers that'll take your breath away! Throw in some \"supreme comedy\" and a story that makes you cry when you least expect it, these cute and sexy girls will explode off your screen! With everyone's cheer of \"Leave it to Rio!\", Lady Luck'll be with you, too!",
+    "background": null,
+    "approved": true,
+    "trailer": {
+      "id": "vTXmm2sLKa8",
+      "url": "https://youtu.be/vTXmm2sLKa8",
+      "embedUrl": "https://www.youtube.com/embed/vTXmm2sLKa8",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "TV",
+    "source": "Game",
+    "episodes": 13,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2011-01-04T00:00:00.000Z",
+      "airedTo": "2011-03-29T00:00:00.000Z"
+    },
+    "duration": 1380000,
+    "rating": "PG-13+",
+    "season": "Winter",
+    "year": 2011,
+    "producers": [
+      {
+        "id": 52,
+        "url": "https://myanimelist.net/anime/producer/52/Avex_Entertainment",
+        "type": "Producer",
+        "name": "Avex Entertainment"
+      },
+      {
+        "id": 144,
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon",
+        "type": "Producer",
+        "name": "Pony Canyon"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 250,
+        "url": "https://myanimelist.net/anime/producer/250/Media_Blasters",
+        "type": "Producer",
+        "name": "Media Blasters"
+      }
+    ],
+    "studios": [
+      {
+        "id": 27,
+        "url": "https://myanimelist.net/anime/producer/27/Xebec",
+        "type": "Producer",
+        "name": "Xebec"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "url": "https://myanimelist.net/anime/genre/4/Comedy",
+        "type": "AnimeGenre",
+        "name": "Comedy",
+        "genreType": "Genre"
+      },
+      {
+        "id": 9,
+        "url": "https://myanimelist.net/anime/genre/9/Ecchi",
+        "type": "AnimeGenre",
+        "name": "Ecchi",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 11,
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game",
+        "type": "AnimeGenre",
+        "name": "Strategy Game",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Tuesdays at Unknown"
+    }
+  },
+  {
+    "id": 31710,
+    "url": "https://myanimelist.net/anime/31710/Divine_Gate",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/5/77844t.jpg",
+        "default": "https://myanimelist.net/images/anime/5/77844.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/5/77844l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/5/77844t.webp",
+        "default": "https://myanimelist.net/images/anime/5/77844.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/5/77844l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["ディバゲ"],
+      "english": "Divine Gate",
+      "japanese": "ディバインゲート",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Divine Gate"
+    },
+    "titles": [
+      { "type": "Default", "title": "Divine Gate" },
+      { "type": "Synonym", "title": "ディバゲ" },
+      { "type": "Japanese", "title": "ディバインゲート" },
+      { "type": "English", "title": "Divine Gate" }
+    ],
+    "score": 5.52,
+    "scoredBy": 74855,
+    "rank": 12960,
+    "popularity": 1564,
+    "members": 174609,
+    "favorites": 215,
+    "synopsis": "The legend of the Divine Gate is a story told to young children that depicts the merging of the living world, the heavens, and the underworld. \"Adapters\"—people born with unique elemental abilities gifted to them from the union of these worlds—formed the World Council, an organization which controls the chaos of the Gate by portraying its legend as nothing more than a myth. These Adapters train in a special academy owned by the World Council that allows the students to hone their skills.\n\nAoto, a teenage boy with exceptional water powers and a tragic past, rejects the offer to join the academy numerous times—until he is successfully pressured by the energetic wind user Midori and stubborn fire user Akane. Together, with the World Council and their mysterious leader Arthur, they seek out the Gate in the hopes of uncovering the truth. But in order to reach their goals, they must unite and overcome their own despair while dealing with behind the scene mischief.\n\n[Written by MAL Rewrite]",
+    "background": null,
+    "approved": true,
+    "trailer": {
+      "id": "u7gqmRyl7d0",
+      "url": "https://youtu.be/u7gqmRyl7d0",
+      "embedUrl": "https://www.youtube.com/embed/u7gqmRyl7d0",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "TV",
+    "source": "Game",
+    "episodes": 12,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2016-01-08T00:00:00.000Z",
+      "airedTo": "2016-03-25T00:00:00.000Z"
+    },
+    "duration": 1380000,
+    "rating": "PG-13+",
+    "season": "Winter",
+    "year": 2016,
+    "producers": [],
+    "licensors": [
+      {
+        "id": 102,
+        "url": "https://myanimelist.net/anime/producer/102/Funimation",
+        "type": "Producer",
+        "name": "Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "id": 1,
+        "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot",
+        "type": "Producer",
+        "name": "Studio Pierrot"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "url": "https://myanimelist.net/anime/genre/1/Action",
+        "type": "AnimeGenre",
+        "name": "Action",
+        "genreType": "Genre"
+      },
+      {
+        "id": 10,
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy",
+        "type": "AnimeGenre",
+        "name": "Fantasy",
+        "genreType": "Genre"
+      },
+      {
+        "id": 24,
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi",
+        "type": "AnimeGenre",
+        "name": "Sci-Fi",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [],
+    "broadcast": {
+      "day": "Fridays",
+      "time": "22:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Fridays at 22:30 (JST)"
+    }
+  },
+  {
+    "id": 40359,
+    "url": "https://myanimelist.net/anime/40359/Ikebukuro_West_Gate_Park",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1277/108376t.jpg",
+        "default": "https://myanimelist.net/images/anime/1277/108376.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1277/108376l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1277/108376t.webp",
+        "default": "https://myanimelist.net/images/anime/1277/108376.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1277/108376l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["IWGP"],
+      "english": "Ikebukuro West Gate Park",
+      "japanese": "池袋ウエストゲートパーク",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Ikebukuro West Gate Park"
+    },
+    "titles": [
+      { "type": "Default", "title": "Ikebukuro West Gate Park" },
+      { "type": "Synonym", "title": "IWGP" },
+      { "type": "Japanese", "title": "池袋ウエストゲートパーク" },
+      { "type": "English", "title": "Ikebukuro West Gate Park" }
+    ],
+    "score": 6.87,
+    "scoredBy": 39673,
+    "rank": 5382,
+    "popularity": 1990,
+    "members": 128104,
+    "favorites": 372,
+    "synopsis": "Ikebukuro is home to many different businesses and gangs. This includes Makoto Majima: the infamous \"troubleshooter\" who mediates between warring factions. Makoto knows all of the ins and outs of the bustling Tokyo district and strives to maintain peace alongside the G-Boys, who assist Makoto in his troubleshooting endeavors. Led by the charismatic and ruthless Takashi Andou, the G-Boys is the most influential gang in all of Ikebukuro. \n\nHowever, when the new faction \"Red Angels\" begins to move in on the G-Boys' turf, immediate tensions rise between them. With numerous enemies scattered around and within the G-Boys, navigating through the streets becomes more difficult for Makoto. While continuing to troubleshoot problems, he slowly unravels a plot that may trigger an all-out war and threaten the entirety of Ikebukuro.\n\n[Written by MAL Rewrite]",
+    "background": null,
+    "approved": true,
+    "trailer": {
+      "id": "iOaaNJ7c4cA",
+      "url": "https://youtu.be/iOaaNJ7c4cA",
+      "embedUrl": "https://www.youtube.com/embed/iOaaNJ7c4cA",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 12,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2020-10-06T00:00:00.000Z",
+      "airedTo": "2020-12-22T00:00:00.000Z"
+    },
+    "duration": 1380000,
+    "rating": "PG-13+",
+    "season": "Fall",
+    "year": 2020,
+    "producers": [
+      {
+        "id": 323,
+        "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia",
+        "type": "Producer",
+        "name": "Nippon Columbia"
+      },
+      {
+        "id": 1696,
+        "url": "https://myanimelist.net/anime/producer/1696/Kadokawa",
+        "type": "Producer",
+        "name": "Kadokawa"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 102,
+        "url": "https://myanimelist.net/anime/producer/102/Funimation",
+        "type": "Producer",
+        "name": "Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "id": 95,
+        "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo",
+        "type": "Producer",
+        "name": "Doga Kobo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "url": "https://myanimelist.net/anime/genre/8/Drama",
+        "type": "AnimeGenre",
+        "name": "Drama",
+        "genreType": "Genre"
+      },
+      {
+        "id": 7,
+        "url": "https://myanimelist.net/anime/genre/7/Mystery",
+        "type": "AnimeGenre",
+        "name": "Mystery",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 55,
+        "url": "https://myanimelist.net/anime/genre/55/Delinquents",
+        "type": "AnimeGenre",
+        "name": "Delinquents",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": {
+      "day": "Tuesdays",
+      "time": "21:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Tuesdays at 21:00 (JST)"
+    }
+  },
+  {
+    "id": 32802,
+    "url": "https://myanimelist.net/anime/32802/Cardfight_Vanguard_G__Stride_Gate-hen",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/10/80198t.jpg",
+        "default": "https://myanimelist.net/images/anime/10/80198.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/10/80198l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/10/80198t.webp",
+        "default": "https://myanimelist.net/images/anime/10/80198.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/10/80198l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [],
+      "english": "Cardfight!! Vanguard G Stride Gate",
+      "japanese": "カードファイト!! ヴァンガードG ストライドゲート編",
+      "german": "Cardfight!! Vanguard G Stride Gate",
+      "spanish": "Cardfight!! Vanguard G Stride Gate",
+      "french": "Cardfight!! Vanguard G Stride Gate",
+      "default": "Cardfight!! Vanguard G: Stride Gate-hen"
+    },
+    "titles": [
+      { "type": "Default", "title": "Cardfight!! Vanguard G: Stride Gate-hen" },
+      {
+        "type": "Japanese",
+        "title": "カードファイト!! ヴァンガードG ストライドゲート編"
+      },
+      { "type": "English", "title": "Cardfight!! Vanguard G Stride Gate" },
+      { "type": "German", "title": "Cardfight!! Vanguard G Stride Gate" },
+      { "type": "Spanish", "title": "Cardfight!! Vanguard G Stride Gate" },
+      { "type": "French", "title": "Cardfight!! Vanguard G Stride Gate" }
+    ],
+    "score": 6.77,
+    "scoredBy": 5382,
+    "rank": 5950,
+    "popularity": 6775,
+    "members": 11599,
+    "favorites": 19,
+    "synopsis": "The second half of the second season of Cardfight!! Vanguard G series.",
+    "background": null,
+    "approved": true,
+    "trailer": null,
+    "type": "TV",
+    "source": "Card game",
+    "episodes": 24,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2016-04-17T00:00:00.000Z",
+      "airedTo": "2016-09-25T00:00:00.000Z"
+    },
+    "duration": 1440000,
+    "rating": "PG-13+",
+    "season": "Spring",
+    "year": 2016,
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "id": 73,
+        "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment",
+        "type": "Producer",
+        "name": "TMS Entertainment"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "url": "https://myanimelist.net/anime/genre/1/Action",
+        "type": "AnimeGenre",
+        "name": "Action",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 11,
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game",
+        "type": "AnimeGenre",
+        "name": "Strategy Game",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": {
+      "day": "Sundays",
+      "time": "10:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 10:00 (JST)"
+    }
+  },
+  {
+    "id": 10301,
+    "url": "https://myanimelist.net/anime/10301/Rio__Rainbow_Gate_Special",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/8/28328t.jpg",
+        "default": "https://myanimelist.net/images/anime/8/28328.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/8/28328l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/8/28328t.webp",
+        "default": "https://myanimelist.net/images/anime/8/28328.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/8/28328l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Rio: Rainbow Gate! OVA"],
+      "english": null,
+      "japanese": "リオ レインボーゲート!",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Rio: Rainbow Gate! Special"
+    },
+    "titles": [
+      { "type": "Default", "title": "Rio: Rainbow Gate! Special" },
+      { "type": "Synonym", "title": "Rio: Rainbow Gate! OVA" },
+      { "type": "Japanese", "title": "リオ レインボーゲート!" }
+    ],
+    "score": 6.01,
+    "scoredBy": 2172,
+    "rank": 10651,
+    "popularity": 8772,
+    "members": 6123,
+    "favorites": 2,
+    "synopsis": "With the goal of making Mint's birthday unforgettable, Choco sets out on a heartfelt journey to buy the perfect present.",
+    "background": null,
+    "approved": true,
+    "trailer": null,
+    "type": "Special",
+    "source": "Game",
+    "episodes": 1,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2011-10-19T00:00:00.000Z",
+      "airedTo": null
+    },
+    "duration": 1380000,
+    "rating": "PG-13+",
+    "season": "Unknown",
+    "year": null,
+    "producers": [],
+    "licensors": [
+      {
+        "id": 250,
+        "url": "https://myanimelist.net/anime/producer/250/Media_Blasters",
+        "type": "Producer",
+        "name": "Media Blasters"
+      }
+    ],
+    "studios": [
+      {
+        "id": 27,
+        "url": "https://myanimelist.net/anime/producer/27/Xebec",
+        "type": "Producer",
+        "name": "Xebec"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "url": "https://myanimelist.net/anime/genre/4/Comedy",
+        "type": "AnimeGenre",
+        "name": "Comedy",
+        "genreType": "Genre"
+      },
+      {
+        "id": 9,
+        "url": "https://myanimelist.net/anime/genre/9/Ecchi",
+        "type": "AnimeGenre",
+        "name": "Ecchi",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 11,
+        "url": "https://myanimelist.net/anime/genre/11/Strategy_Game",
+        "type": "AnimeGenre",
+        "name": "Strategy Game",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 2145,
+    "url": "https://myanimelist.net/anime/2145/Black_Gate__Kanin_no_Gakuen",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/2/41503t.jpg",
+        "default": "https://myanimelist.net/images/anime/2/41503.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/2/41503l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/2/41503t.webp",
+        "default": "https://myanimelist.net/images/anime/2/41503.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/2/41503l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [],
+      "english": null,
+      "japanese": "ブラックゲート 姦淫の学園",
+      "german": "Black Gate",
+      "spanish": null,
+      "french": null,
+      "default": "Black Gate: Kanin no Gakuen"
+    },
+    "titles": [
+      { "type": "Default", "title": "Black Gate: Kanin no Gakuen" },
+      { "type": "Japanese", "title": "ブラックゲート 姦淫の学園" },
+      { "type": "German", "title": "Black Gate" }
+    ],
+    "score": 5.81,
+    "scoredBy": 2157,
+    "rank": null,
+    "popularity": 8875,
+    "members": 5978,
+    "favorites": 8,
+    "synopsis": "Narifumi Hosokawa prepares for his high school's culture festival with the Kadomori twins, Shizuku and Kasumi. While everyone is distracted, Shizuku decides to open a mysterious gate through the use of magic and travel to an alternate world. She has broken the oath of her family's heritage, as to protect the Black Gate from those who seek the enormous power that lies within the world. The remaining defenders of the Black Gate, consisting of female students and a female teacher, must travel through to the other side and return before any distruptions come to either dimension. However, Narifumi accompanies the group and Shizuku is waiting for them with some new allies. \n\n(Source: ANN)",
+    "background": null,
+    "approved": true,
+    "trailer": null,
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 2,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2004-07-25T00:00:00.000Z",
+      "airedTo": "2004-12-25T00:00:00.000Z"
+    },
+    "duration": 1680000,
+    "rating": "Rx",
+    "season": "Unknown",
+    "year": null,
+    "producers": [
+      {
+        "id": 25,
+        "url": "https://myanimelist.net/anime/producer/25/Milky_Animation_Label",
+        "type": "Producer",
+        "name": "Milky Animation Label"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "id": 1375,
+        "url": "https://myanimelist.net/anime/producer/1375/Studio_Jam",
+        "type": "Producer",
+        "name": "Studio Jam"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy",
+        "type": "AnimeGenre",
+        "name": "Fantasy",
+        "genreType": "Genre"
+      },
+      {
+        "id": 12,
+        "url": "https://myanimelist.net/anime/genre/12/Hentai",
+        "type": "AnimeGenre",
+        "name": "Hentai",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 127,
+    "url": "https://myanimelist.net/anime/127/Gate_Keepers",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/12/15226t.jpg",
+        "default": "https://myanimelist.net/images/anime/12/15226.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/12/15226l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/12/15226t.webp",
+        "default": "https://myanimelist.net/images/anime/12/15226.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/12/15226l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Gatekeepers"],
+      "english": null,
+      "japanese": "ゲートキーパーズ",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Gate Keepers"
+    },
+    "titles": [
+      { "type": "Default", "title": "Gate Keepers" },
+      { "type": "Synonym", "title": "Gatekeepers" },
+      { "type": "Japanese", "title": "ゲートキーパーズ" }
+    ],
+    "score": 6.93,
+    "scoredBy": 10060,
+    "rank": 5043,
+    "popularity": 5054,
+    "members": 24223,
+    "favorites": 63,
+    "synopsis": "Technology, science, and industry—this is 1969 Tokyo, and there is no better time to be alive! But a shadow looms quietly around every corner: \"Invaders\" have infiltrated the populace, and nobody knows who or what they are.\n\nOnly the members of the top-secret agency AEGIS know of their existence. Covertly fighting the enemy is their job, but only those with the ability to open \"Gates\" to another world can truly defeat them. Within AEGIS is a specialized task force known as the \"Gate Keepers.\" Composed of extraordinary individuals with a variety of Gate-related abilities, they are the only ones who can save humanity from the vicious Invaders plaguing the planet.\n\nShun Ukiya is an average high school student who lives with his widowed mother and little sister. While on his way home from school one day, he comes across a group of Invaders heading toward his house. In a desperate plight to save his family, Shun discovers he possesses the ability to open a Gate, allowing him to harness massive amounts of energy. With his newfound ability exposed, he catches the attention of AEGIS, and particularly the interest of one of its Gate Keepers, Shun's childhood friend Ruriko Ikusawa.\n\n[Written by MAL Rewrite]",
+    "background": null,
+    "approved": true,
+    "trailer": null,
+    "type": "TV",
+    "source": "Game",
+    "episodes": 24,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2000-04-03T00:00:00.000Z",
+      "airedTo": "2000-09-18T00:00:00.000Z"
+    },
+    "duration": 1500000,
+    "rating": "PG-13+",
+    "season": "Spring",
+    "year": 2000,
+    "producers": [
+      {
+        "id": 23,
+        "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual",
+        "type": "Producer",
+        "name": "Bandai Visual"
+      },
+      {
+        "id": 108,
+        "url": "https://myanimelist.net/anime/producer/108/Media_Factory",
+        "type": "Producer",
+        "name": "Media Factory"
+      },
+      {
+        "id": 113,
+        "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten",
+        "type": "Producer",
+        "name": "Kadokawa Shoten"
+      },
+      {
+        "id": 144,
+        "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon",
+        "type": "Producer",
+        "name": "Pony Canyon"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 1459,
+        "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA",
+        "type": "Producer",
+        "name": "Geneon Entertainment USA"
+      }
+    ],
+    "studios": [
+      {
+        "id": 3,
+        "url": "https://myanimelist.net/anime/producer/3/Gonzo",
+        "type": "Producer",
+        "name": "Gonzo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "url": "https://myanimelist.net/anime/genre/4/Comedy",
+        "type": "AnimeGenre",
+        "name": "Comedy",
+        "genreType": "Genre"
+      },
+      {
+        "id": 10,
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy",
+        "type": "AnimeGenre",
+        "name": "Fantasy",
+        "genreType": "Genre"
+      },
+      {
+        "id": 24,
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi",
+        "type": "AnimeGenre",
+        "name": "Sci-Fi",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 18,
+        "url": "https://myanimelist.net/anime/genre/18/Mecha",
+        "type": "AnimeGenre",
+        "name": "Mecha",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": {
+      "day": "Mondays",
+      "time": "18:30",
+      "timezone": "Asia/Tokyo",
+      "string": "Mondays at 18:30 (JST)"
+    }
+  },
+  {
+    "id": 128,
+    "url": "https://myanimelist.net/anime/128/Gate_Keepers_21",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/6/75569t.jpg",
+        "default": "https://myanimelist.net/images/anime/6/75569.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/6/75569l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/6/75569t.webp",
+        "default": "https://myanimelist.net/images/anime/6/75569.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/6/75569l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Gatekeepers 21"],
+      "english": null,
+      "japanese": "ゲートキーパーズ21",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Gate Keepers 21"
+    },
+    "titles": [
+      { "type": "Default", "title": "Gate Keepers 21" },
+      { "type": "Synonym", "title": "Gatekeepers 21" },
+      { "type": "Japanese", "title": "ゲートキーパーズ21" }
+    ],
+    "score": 6.74,
+    "scoredBy": 5004,
+    "rank": 6129,
+    "popularity": 6775,
+    "members": 11600,
+    "favorites": 21,
+    "synopsis": "Thirty-two years have passed since the initial defeat of the Invaders. A.E.G.I.S is all but dismantled now and has become an underground organization consisting of only a few Gate Keepers left to save humanity. One of the members, Ayane Isuzu, is sick of society as a whole, though she continues to defeat the Invaders out of spite for her father. Suddenly, she learns of the revival of Machine General (Kikai Shogun) and Devil Count (Akuma Hakushaku), but a mysterious ghost girl now accompanies them. It is up to Ayane and the remnants of A.E.G.I.S to stop them and save humanity once again.\n\n(Source: ANN)",
+    "background": null,
+    "approved": true,
+    "trailer": null,
+    "type": "OVA",
+    "source": "Game",
+    "episodes": 6,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2002-04-24T00:00:00.000Z",
+      "airedTo": "2003-01-08T00:00:00.000Z"
+    },
+    "duration": 1500000,
+    "rating": "PG-13+",
+    "season": "Unknown",
+    "year": null,
+    "producers": [],
+    "licensors": [
+      {
+        "id": 1459,
+        "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA",
+        "type": "Producer",
+        "name": "Geneon Entertainment USA"
+      }
+    ],
+    "studios": [
+      {
+        "id": 3,
+        "url": "https://myanimelist.net/anime/producer/3/Gonzo",
+        "type": "Producer",
+        "name": "Gonzo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "url": "https://myanimelist.net/anime/genre/8/Drama",
+        "type": "AnimeGenre",
+        "name": "Drama",
+        "genreType": "Genre"
+      },
+      {
+        "id": 24,
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi",
+        "type": "AnimeGenre",
+        "name": "Sci-Fi",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 18,
+        "url": "https://myanimelist.net/anime/genre/18/Mecha",
+        "type": "AnimeGenre",
+        "name": "Mecha",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 2842,
+    "url": "https://myanimelist.net/anime/2842/Pokemon_Fushigi_no_Dungeon__Shutsudou_Pokemon_Kyuujotai_Ganbaruzu",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1445/92964t.jpg",
+        "default": "https://myanimelist.net/images/anime/1445/92964.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1445/92964l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1445/92964t.webp",
+        "default": "https://myanimelist.net/images/anime/1445/92964.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1445/92964l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [
+        "Pocket Monsters Advanced Generation - S3 Pokémon Mystery Dungeon: Team Go-Getters Out of the Gate!"
+      ],
+      "english": "Pokémon Mystery Dungeon: Team Go-Getters Out of the Gate!",
+      "japanese": "ポケモン不思議のダンジョン 出動ポケモン救助隊ガンバルズ！",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Pokemon Fushigi no Dungeon: Shutsudou Pokemon Kyuujotai Ganbaruzu!"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Pokemon Fushigi no Dungeon: Shutsudou Pokemon Kyuujotai Ganbaruzu!"
+      },
+      {
+        "type": "Synonym",
+        "title": "Pocket Monsters Advanced Generation - S3 Pokémon Mystery Dungeon: Team Go-Getters Out of the Gate!"
+      },
+      {
+        "type": "Japanese",
+        "title": "ポケモン不思議のダンジョン 出動ポケモン救助隊ガンバルズ！"
+      },
+      {
+        "type": "English",
+        "title": "Pokémon Mystery Dungeon: Team Go-Getters Out of the Gate!"
+      }
+    ],
+    "score": 6.5,
+    "scoredBy": 8046,
+    "rank": 7714,
+    "popularity": 5948,
+    "members": 16030,
+    "favorites": 4,
+    "synopsis": "A human wakes up one day to discover that he has become a Squirtle in a world filled with natural disasters, where he meets Charmander and Chikorita of Team Go-Getters, a Pokemon rescue team. Squirtle joins Team Go-Getters for the task of saving Pichu's Brother Pikachu from Skarmory, however Gengar and his Team Meanies decide to interfere.\n\n(Source: ANN)",
+    "background": null,
+    "approved": true,
+    "trailer": null,
+    "type": "TV Special",
+    "source": "Game",
+    "episodes": 1,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2006-09-08T00:00:00.000Z",
+      "airedTo": null
+    },
+    "duration": 1200000,
+    "rating": "PG",
+    "season": "Unknown",
+    "year": null,
+    "producers": [
+      {
+        "id": 505,
+        "url": "https://myanimelist.net/anime/producer/505/Nintendo_of_America",
+        "type": "Producer",
+        "name": "Nintendo of America"
+      }
+    ],
+    "licensors": [
+      {
+        "id": 499,
+        "url": "https://myanimelist.net/anime/producer/499/The_Pokemon_Company_International",
+        "type": "Producer",
+        "name": "The Pokemon Company International"
+      }
+    ],
+    "studios": [
+      {
+        "id": 28,
+        "url": "https://myanimelist.net/anime/producer/28/OLM",
+        "type": "Producer",
+        "name": "OLM"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "url": "https://myanimelist.net/anime/genre/2/Adventure",
+        "type": "AnimeGenre",
+        "name": "Adventure",
+        "genreType": "Genre"
+      },
+      {
+        "id": 10,
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy",
+        "type": "AnimeGenre",
+        "name": "Fantasy",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 51,
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic",
+        "type": "AnimeGenre",
+        "name": "Anthropomorphic",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 32410,
+    "url": "https://myanimelist.net/anime/32410/Dimension_W__W_no_Tobira_Online_-_Rose_no_Onayami_Soudanshitsu",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/6/77773t.jpg",
+        "default": "https://myanimelist.net/images/anime/6/77773.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/6/77773l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/6/77773t.webp",
+        "default": "https://myanimelist.net/images/anime/6/77773.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/6/77773l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [],
+      "english": "Dimension W: W Gate Online - Rose's Counseling Room",
+      "japanese": "ディメンション ダブリュー Wの扉 ONLINE ~ロゼのお悩み相談室",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Dimension W: W no Tobira Online - Rose no Onayami Soudanshitsu"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Dimension W: W no Tobira Online - Rose no Onayami Soudanshitsu"
+      },
+      {
+        "type": "Japanese",
+        "title": "ディメンション ダブリュー Wの扉 ONLINE ~ロゼのお悩み相談室"
+      },
+      {
+        "type": "English",
+        "title": "Dimension W: W Gate Online - Rose's Counseling Room"
+      }
+    ],
+    "score": 5.72,
+    "scoredBy": 3252,
+    "rank": 12119,
+    "popularity": 6653,
+    "members": 12124,
+    "favorites": 8,
+    "synopsis": "Short specials included in the Blu-ray releases of Dimension W.",
+    "background": null,
+    "approved": true,
+    "trailer": null,
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 5,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2016-03-25T00:00:00.000Z",
+      "airedTo": "2016-08-26T00:00:00.000Z"
+    },
+    "duration": 180000,
+    "rating": "G",
+    "season": "Unknown",
+    "year": null,
+    "producers": [],
+    "licensors": [
+      {
+        "id": 102,
+        "url": "https://myanimelist.net/anime/producer/102/Funimation",
+        "type": "Producer",
+        "name": "Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "id": 1127,
+        "url": "https://myanimelist.net/anime/producer/1127/Studio_3Hz",
+        "type": "Producer",
+        "name": "Studio 3Hz"
+      }
+    ],
+    "genres": [
+      {
+        "id": 24,
+        "url": "https://myanimelist.net/anime/genre/24/Sci-Fi",
+        "type": "AnimeGenre",
+        "name": "Sci-Fi",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [
+      {
+        "id": 42,
+        "url": "https://myanimelist.net/anime/genre/42/Seinen",
+        "type": "AnimeGenre",
+        "name": "Seinen",
+        "genreType": "Demographic"
+      }
+    ],
+    "themes": [],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 48791,
+    "url": "https://myanimelist.net/anime/48791/Luo_Xiaohei_Zhanji__Zhongsheng_Zhi_Men",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1909/114536t.jpg",
+        "default": "https://myanimelist.net/images/anime/1909/114536.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1909/114536l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1909/114536t.webp",
+        "default": "https://myanimelist.net/images/anime/1909/114536.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1909/114536l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": ["Luo Xiao Hei Zhan Ji"],
+      "english": "The Legend of Luoxiaohei: The Gate of All Living Beings",
+      "japanese": "罗小黑战记 众生之门",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Luo Xiaohei Zhanji: Zhongsheng Zhi Men"
+    },
+    "titles": [
+      { "type": "Default", "title": "Luo Xiaohei Zhanji: Zhongsheng Zhi Men" },
+      { "type": "Synonym", "title": "Luo Xiao Hei Zhan Ji" },
+      { "type": "Japanese", "title": "罗小黑战记 众生之门" },
+      {
+        "type": "English",
+        "title": "The Legend of Luoxiaohei: The Gate of All Living Beings"
+      }
+    ],
+    "score": 7.65,
+    "scoredBy": 809,
+    "rank": 1539,
+    "popularity": 12117,
+    "members": 2317,
+    "favorites": 7,
+    "synopsis": "Second season of Luo Xiaohei Zhanj.",
+    "background": null,
+    "approved": true,
+    "trailer": null,
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2021-04-24T00:00:00.000Z",
+      "airedTo": "2021-07-17T00:00:00.000Z"
+    },
+    "duration": 480000,
+    "rating": "PG-13+",
+    "season": "Unknown",
+    "year": null,
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "id": 2513,
+        "url": "https://myanimelist.net/anime/producer/2513/HMCH",
+        "type": "Producer",
+        "name": "HMCH"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "url": "https://myanimelist.net/anime/genre/4/Comedy",
+        "type": "AnimeGenre",
+        "name": "Comedy",
+        "genreType": "Genre"
+      },
+      {
+        "id": 37,
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural",
+        "type": "AnimeGenre",
+        "name": "Supernatural",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 32888,
+    "url": "https://myanimelist.net/anime/32888/Sinbad__Mahiru_no_Yoru_to_Fushigi_no_Mon",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/3/78861t.jpg",
+        "default": "https://myanimelist.net/images/anime/3/78861.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/3/78861l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/3/78861t.webp",
+        "default": "https://myanimelist.net/images/anime/3/78861.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/3/78861l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [],
+      "english": "Sinbad: Night at High Noon and the Wonder Gate",
+      "japanese": "シンドバッド",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Sinbad: Mahiru no Yoru to Fushigi no Mon"
+    },
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sinbad: Mahiru no Yoru to Fushigi no Mon"
+      },
+      { "type": "Japanese", "title": "シンドバッド" },
+      {
+        "type": "English",
+        "title": "Sinbad: Night at High Noon and the Wonder Gate"
+      }
+    ],
+    "score": 6.3,
+    "scoredBy": 501,
+    "rank": 9005,
+    "popularity": 12850,
+    "members": 1852,
+    "favorites": 0,
+    "synopsis": "The search for Sana’s comrades continues. Sara who opens up her heart to Sinbad reveals her horrible story of how her father’s apprentice Galip destroyed the peaceful kingdom and her family by using the wizardly power. Suddenly the Magic Lamp shows the passage “to the Wonder Gate to the land of ancestors that appears in the Night at High Noon,” but Galip’s solders block their path.\n\n(Source: ANN)",
+    "background": null,
+    "approved": true,
+    "trailer": {
+      "id": "--vR_tx8rto",
+      "url": "https://youtu.be/--vR_tx8rto",
+      "embedUrl": "https://www.youtube.com/embed/--vR_tx8rto",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "airInfo": {
+      "status": "Finished Airing",
+      "airing": false,
+      "airedFrom": "2016-05-14T00:00:00.000Z",
+      "airedTo": null
+    },
+    "duration": 3060000,
+    "rating": "G",
+    "season": "Unknown",
+    "year": null,
+    "producers": [
+      {
+        "id": 235,
+        "url": "https://myanimelist.net/anime/producer/235/Shirogumi",
+        "type": "Producer",
+        "name": "Shirogumi"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "id": 22,
+        "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation",
+        "type": "Producer",
+        "name": "Nippon Animation"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "url": "https://myanimelist.net/anime/genre/2/Adventure",
+        "type": "AnimeGenre",
+        "name": "Adventure",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  },
+  {
+    "id": 60580,
+    "url": "https://myanimelist.net/anime/60580/Xuan_Jie_Zhi_Men",
+    "image": {
+      "jpg": {
+        "small": "https://myanimelist.net/images/anime/1071/153622t.jpg",
+        "default": "https://myanimelist.net/images/anime/1071/153622.jpg",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1071/153622l.jpg",
+        "maximum": null
+      },
+      "webp": {
+        "small": "https://myanimelist.net/images/anime/1071/153622t.webp",
+        "default": "https://myanimelist.net/images/anime/1071/153622.webp",
+        "medium": null,
+        "large": "https://myanimelist.net/images/anime/1071/153622l.webp",
+        "maximum": null
+      }
+    },
+    "title": {
+      "synonyms": [],
+      "english": "The Gate of Mystical Realm",
+      "japanese": "玄界之门",
+      "german": null,
+      "spanish": null,
+      "french": null,
+      "default": "Xuan Jie Zhi Men"
+    },
+    "titles": [
+      { "type": "Default", "title": "Xuan Jie Zhi Men" },
+      { "type": "Japanese", "title": "玄界之门" },
+      { "type": "English", "title": "The Gate of Mystical Realm" }
+    ],
+    "score": 6.86,
+    "scoredBy": 130,
+    "rank": 5481,
+    "popularity": 15843,
+    "members": 838,
+    "favorites": 3,
+    "synopsis": "In a world where warriors are respected, Shi Mu's fate seems destined to be different. As the adopted son of an aristocratic family, he is forced to embark on the road of a warrior to find the truth and redeem himself. From the four halls of Fengcheng to the struggle between sects, interests are entangled, and powerful enemies lurk. Every challenge makes Shi Mu more determined. In the end, Shi Mu realizes the power of his bloodline, which not only changes his own destiny, but also affects the future of many people.\n\n(Source: Bilibili, translated)",
+    "background": "Adaptation of Wang Yu's (忘语) web novel of the same title.",
+    "approved": true,
+    "trailer": {
+      "id": "kxL7tSd2U5g",
+      "url": "https://youtu.be/kxL7tSd2U5g",
+      "embedUrl": "https://www.youtube.com/embed/kxL7tSd2U5g",
+      "image": {
+        "small": null,
+        "default": null,
+        "medium": null,
+        "large": null,
+        "maximum": null
+      }
+    },
+    "type": "ONA",
+    "source": "Web novel",
+    "episodes": 26,
+    "airInfo": {
+      "status": "Airing",
+      "airing": true,
+      "airedFrom": "2025-11-26T00:00:00.000Z",
+      "airedTo": null
+    },
+    "duration": 900000,
+    "rating": "PG-13+",
+    "season": "Unknown",
+    "year": null,
+    "producers": [
+      {
+        "id": 1414,
+        "url": "https://myanimelist.net/anime/producer/1414/bilibili",
+        "type": "Producer",
+        "name": "bilibili"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "id": 2055,
+        "url": "https://myanimelist.net/anime/producer/2055/BYMENT",
+        "type": "Producer",
+        "name": "BYMENT"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "url": "https://myanimelist.net/anime/genre/1/Action",
+        "type": "AnimeGenre",
+        "name": "Action",
+        "genreType": "Genre"
+      },
+      {
+        "id": 2,
+        "url": "https://myanimelist.net/anime/genre/2/Adventure",
+        "type": "AnimeGenre",
+        "name": "Adventure",
+        "genreType": "Genre"
+      },
+      {
+        "id": 10,
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy",
+        "type": "AnimeGenre",
+        "name": "Fantasy",
+        "genreType": "Genre"
+      }
+    ],
+    "explicitGenres": [],
+    "demographics": [],
+    "themes": [
+      {
+        "id": 13,
+        "url": "https://myanimelist.net/anime/genre/13/Historical",
+        "type": "AnimeGenre",
+        "name": "Historical",
+        "genreType": "Theme"
+      },
+      {
+        "id": 17,
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts",
+        "type": "AnimeGenre",
+        "name": "Martial Arts",
+        "genreType": "Theme"
+      }
+    ],
+    "broadcast": { "day": null, "time": null, "timezone": null, "string": null }
+  }
+]

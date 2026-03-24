@@ -1,0 +1,19 @@
+{
+  "name": "learn-mcp",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "main": "./src/index.ts",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^25.5.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "jikan4.js": "^1.6.3",
+    "zod": "3"
+  }
+}
